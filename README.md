@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Lompong Samranchuen
-- 🌱 I’m currently learning ASP.NET C#
+- 🌱 I’m currently learning ASP.NET
